@@ -24,7 +24,7 @@ public class DefaultSecurityConfig {
     };
 
     private static final String[] AUTH_URLS = {
-            "/articles"
+            "/api/articles"
     };
 
     @Bean
