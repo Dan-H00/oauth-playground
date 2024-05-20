@@ -1,6 +1,8 @@
 server:
   port: 8090
-
+logging:
+  level:
+    root: trace
 spring:
   security:
     oauth2:
